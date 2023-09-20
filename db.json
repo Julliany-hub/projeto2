@@ -1,0 +1,40 @@
+{
+  "cardapio": [
+    {"prato": "Açaí",
+    "preco": 20,
+    "imagem": "assets/imagens/acai.png"
+    },
+
+    {"prato": "Doce",
+    "preco": 40,
+    "imagem": "assets/imagens/doce.png"
+    },
+
+    {"prato": "Bolo",
+    "preco": 80,
+    "imagem": "assets/imagens/bolo2.png"
+    },
+
+    {"prato": "Rocambole",
+    "preco": 30,
+    "imagem": "assets/imagens/doce1.png"
+    },
+
+    {"prato": "Arroz Doce",
+    "preco": 30,
+    "imagem": "assets/imagens/doce5.png"
+    },
+    {"prato": "Macarrons",
+    "preco": 30,
+    "imagem": "assets/imagens/macarrons.png"
+    },
+    {"prato": "Pão de Queijo",
+    "preco": 30,
+    "imagem": "assets/imagens/pao.png"
+    },
+    {"prato": "Quindim",
+    "preco": 30,
+    "imagem": "assets/imagens/quin.png"
+    }
+  ]
+}
